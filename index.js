@@ -1,7 +1,7 @@
 'use strict';
 
 const Agent = require('./lib/AgentSDK');
-const Var = "unused";
+const asd = "unused";
 
 module.exports = {
     Agent
